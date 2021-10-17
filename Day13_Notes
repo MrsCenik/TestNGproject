@@ -1,0 +1,22 @@
+Oct 17 2021
+
+
+What do you remember from the last class?
+
+Page Object Model
+
+    What is POM?
+
+        *It is a framework design pattern
+        *We separate page objects and action test cases
+        *We store page objects in a different class, we use them in test classes
+            *We use @FindBy annotation to locate the page object in page class
+        *Page Factory: It is used in constructor in the pages to instantiate the objects
+    Why POM?
+
+        *Reuseability
+        *Easy maintainance
+        *Readibility
+        *Time sever
+
+
