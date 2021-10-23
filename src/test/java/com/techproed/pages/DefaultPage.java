@@ -20,4 +20,7 @@ public class DefaultPage {
 
     @FindBy(xpath = "//span[@class='hidden-480']")
     public WebElement addHotelRoom;
+
+    @FindBy(xpath ="//span[contains(@class, 'username')]")
+    public WebElement userID;
 }
