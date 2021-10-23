@@ -162,6 +162,3 @@ public class ReusableMethods {
         return select.getFirstSelectedOption();
     }
 }
-
-
-

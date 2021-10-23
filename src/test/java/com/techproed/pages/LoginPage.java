@@ -21,5 +21,4 @@ public class LoginPage {
     public WebElement advancedLink;
     @FindBy(id="proceed-link")
     public WebElement proceedLink;
-
 }
